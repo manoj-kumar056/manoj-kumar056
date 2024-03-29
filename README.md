@@ -1,4 +1,4 @@
-![MasterHea](https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Fanimations%2Fweb-development-wPWwuRFmPs&psig=AOvVaw096NC7gyi6a-CqWJxruk-b&ust=1711788087402000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiUheSKmYUDFQAAAAAdAAAAABAD)<br>
+![MasterHea]()<br>
 <h1 align="center">Hi 👋, I'm Manojkumar K</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
