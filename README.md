@@ -1,6 +1,7 @@
 ![Alt Text](https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif)
-
-
+<div style="display: flex; justify-content: center;">
+    <img src="your_gif.gif" alt="Your GIF" style="width: 50%; max-width: 400px;">
+</div>
 <h1 align="center">Hi 👋, I'm Manojkumar K</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
