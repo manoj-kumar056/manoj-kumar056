@@ -1,4 +1,11 @@
-![Alt Text](https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif)
+<table style="width:100%;">
+  <tr>
+    <td align="center">
+      <img src="(https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif)" alt="Your GIF">
+    </td>
+  </tr>
+</table>
+
 
 
 <h1 align="center">Hi 👋, I'm Manojkumar K</h1>
