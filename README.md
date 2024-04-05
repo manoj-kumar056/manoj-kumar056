@@ -1,4 +1,8 @@
-
+<h1 align="center">
+        <a href="https://git.io/typing-svg"><img
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=28&pause=1000&center=true&vCenter=true&random=false&lines=HI+There%2C;I'K+Manoj+kumar"
+        alt="Typing SVG" /></a>
+</h1>
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Description of your GIF">
 </p>
